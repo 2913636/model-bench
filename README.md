@@ -23,8 +23,3 @@ py bench.py --cli "什么是 MCP 协议？"
 - 结果自动保存 JSON
 - 预设模型：DeepSeek V3 / DeepSeek R1
 
-## 面试价值
-
-- 多模型实践经验
-- 成本意识（每次调用计算费用）
-- 参数对比 + 批量测试
